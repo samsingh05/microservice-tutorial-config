@@ -1,7 +1,7 @@
 spring:
   port: 8080
   application:
-    name: CONFIG-DEV
+    name: CONFIG-DEFAULT
 
 eureka:
   client:
